@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=El+Messiri&family=Josefin+Sans:wght@100;200;300;400;500;600&family=Lobster+Two&family=Lora:ital,wght@1,400;1,500;1,600&family=Varela+Round&display=swap');
+
+.card {
+    background-color: #FCF0C8;
+    padding-top: 50px;
+
+}
+
+.inner {
+    margin-top: 1rem;
+}
+
+.Cardback {
+    display: inline-block;
+    margin-left: 1rem;
+}
+
+.description1 {
+    font-size: small;
+    font-weight: 500;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 12rem;
+    width: 18rem;
+    padding: 0rem 1rem;
+}
+
+.madeby {
+    text-decoration: none;
+    color: rgb(112, 10, 10);
+    font-weight: 600;
+    position: relative;
+    top: 0;
+}
+
+.price {
+    text-align: center;
+    margin-left: 9rem;
+    margin-top: 0.5rem;
+}
+
+.cardMain {
+    width: 25rem !important;
+    height: 45rem;
+    box-shadow: 2px 2px rgba(168, 160, 160, 0.604);
+    background-color: #FACE7F;
+    border-radius: 40px;
+    box-shadow: 5px 5px 5px;
+
+}
+
+.cardMain:hover {
+    background-color: rgb(254, 191, 108);
+}
+
+.card-img-top {
+    border-radius: 40px;
+    border-color: #080000;
+}
+
+
+.BuyNow {
+    background-color: #911F27;
+    padding-right: px;
+    color:black;
+    border-radius: 5px;
+    background: #911f27;
+    color: #fff;
+    box-shadow: 50%;
+    width: 5rem;
+    border: none;
+
+}
+
+
+.BuyNow:hover {
+    background: #fb0808;
+}
+
+.container-fluid {
+    text-align: center;
+
+
+}
+
+h2 {
+    padding-top: 15px;
+    font-weight: 900;
+    background-size: 40%;
+    background-position: 50% 50%;
+    color: rgba(0, 0, 0);
+}
+
+.card-text {
+    text-align: left;
+}
+
+
+
+#xyz {
+    position: relative;
+    top: 1rem;
+    left: 3rem;
+}
+.card-body {
+    flex: 1 1 auto;
+    padding: 1rem 1rem;
+    color: black;
+    display: flex;
+    position: relative;
+    
+}
